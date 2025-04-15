@@ -113,6 +113,7 @@
 ![Screenshot (224)](https://github.com/user-attachments/assets/f94dd76e-43c4-47c0-808e-9bab4d5df08e)
 
 4. **Configure `values.yaml`**:
+![Screenshot (248)](https://github.com/user-attachments/assets/7a1dbd39-f528-444c-b415-2bf7c033bede)
 
     - Add customizable values to `values.yaml` so you can manage configurations like Docker image, replicas, and more.
    ```yaml
